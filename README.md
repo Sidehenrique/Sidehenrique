@@ -1,49 +1,10 @@
-<h1 align="center">👋 Bem vindos!! </h1>
 
-
-Olá meu nome é Side Henrique
-
+![PRO](https://user-images.githubusercontent.com/102536467/164754316-a253a89a-cf56-4db8-bc58-49b6a1b619ee.jpg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidehenrique&show_icons=true&theme=tokyonight)
 
+### Fala Galera 👋
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**Sidehenrique/Sidehenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -53,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

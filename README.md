@@ -1,8 +1,6 @@
 
 ![PRO](https://user-images.githubusercontent.com/102536467/164754316-a253a89a-cf56-4db8-bc58-49b6a1b619ee.jpg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidehenrique&show_icons=true&theme=tokyonight)
-
 ### Fala Galera 👋
 
 

@@ -1,6 +1,3 @@
-
-![PRO](https://user-images.githubusercontent.com/102536467/164754316-a253a89a-cf56-4db8-bc58-49b6a1b619ee.jpg)
-
 ### Fala Galera 👋
 
 
